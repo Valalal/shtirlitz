@@ -1,0 +1,2 @@
+# shtirlitz
+bot_lite
